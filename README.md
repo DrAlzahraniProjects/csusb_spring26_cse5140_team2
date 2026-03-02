@@ -4,7 +4,7 @@
 
 ---
 
-🚀 Introduction
+🚀 # Introduction
 
 ---
 
@@ -54,6 +54,8 @@ handle uncertainty and imprecision in complex problems.
 - Trade-off analysis (accuracy vs cost vs interpretability)
 
 ---
+
+## Why Learn This?
 
 - 🧠 Learning these methods enables you to solve complex real-world problems by modeling patterns, uncertainty, and optimization challenges effectively.
 
