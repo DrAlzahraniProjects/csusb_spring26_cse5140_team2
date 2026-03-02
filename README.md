@@ -2,56 +2,7 @@
 
 ## 🧠 Team 2 –  Computational Intelligence Project
 
----
-
-# 🚀  Introduction
-
----
-
-This repository contains the full implementation for the **CSE 5140 Semester Project** for Computational Intelligence.
-
-The team will design, implement, and rigorously compare the three core paradigms of Computational Intelligence:
-
-- 🧠 **Neural Networks (NN)**
-- 🧬 **Evolutionary Algorithms (EA)**
-- 🌫️ **Fuzzy Systems (FS)**
-
-Neural Networks are computational models inspired by the human brain that learn patterns from data, Evolutionary Networks use principles of natural selection 
-and genetic adaptation to optimize solutions over time, and Fuzzy Systems apply approximate reasoning with degrees of truth rather than binary logic to 
-handle uncertainty and imprecision in complex problems.
-
----
-
-# 🧠 Phase Overview
-
-## Phase 1 – 🧠 Neural Networks
-
-- Baseline model (Linear Regression)
-- PyTorch Neural Network model
-- Feature importance (SHAP / permutation / weight analysis)
-- Metrics: RMSE, MAE, R²
-
-## Phase 2 – 🧬 Evolutionary Algorithms
-
-- Genetic Algorithm for:
-  - Hyperparameter tuning and/or
-  - Feature subset optimization
-- Fitness convergence visualization
-- Quantified performance improvement over Phase 1
-
-## Phase 3 – 🌫️ Fuzzy Systems
-
-- Fuzzy Inference System (scikit-fuzzy)
-- Rule base documentation
-- Interpretability analysis
-- Performance comparison vs NN/EA
-
-## Final Phase – 📋Integrated Comparison
-
-- Normalized metric comparison (R², MAPE)
-- Runtime comparison
-- Statistical validation (paired t-test / bootstrap)
-- Trade-off analysis (accuracy vs cost vs interpretability)
+This repository contains the full implementation for the CSE 5140 Semester Project for Computational Intelligence.
 
 ---
 
